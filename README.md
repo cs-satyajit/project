@@ -1,2 +1,2 @@
-# mini project
- https://cs-satyajit.github.io/project/
+# mini project using C++ console based.
+ 
